@@ -14,6 +14,7 @@ public class ReverseArray {
 		
 		List<Integer> num = Arrays.asList(1, 12, 12, 16, 25, 25, 45, 70, 70);
 		List<Integer> evenNum = num.stream().distinct().collect(Collectors.toList());
+		Collections.reverse(evenNum);
 		System.out.println(evenNum);
 		 // Create a modifiable list
         List<Integer> modifiableNum = new ArrayList<>(num);
