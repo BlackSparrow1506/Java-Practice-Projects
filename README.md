@@ -3,7 +3,6 @@
 Passionate about writing clean, efficient, and scalable Java applications. I follow best coding practices, focusing on:
 ✔️ Object-Oriented Design
 ✔️ Java Core & Advanced Concepts
-✔️ Spring Boot & Microservices
 ✔️ Multithreading & Concurrency
 ✔️ Data Structures & Algorithms
 
