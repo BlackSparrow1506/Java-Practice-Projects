@@ -11,8 +11,8 @@ public class Random {
 		System.out.println(strr.isBlank()); //if char is available then it's false other wise true
 		System.out.println(strr.length());
 		
-		String a = "gauri langote";
-		String b = "langote";
+		String a = "gauri l";
+		String b = "yedi";
 		System.out.println(a.contains(b)); //returns true or false
 		System.out.println(a.toUpperCase());
 		System.out.println(a.toLowerCase());
